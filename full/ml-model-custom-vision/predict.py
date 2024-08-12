@@ -52,4 +52,4 @@ demo = gr.Interface(
     outputs=gr.Label(num_top_classes=5),
 )
 
-demo.launch(share=True)
+demo.launch()
