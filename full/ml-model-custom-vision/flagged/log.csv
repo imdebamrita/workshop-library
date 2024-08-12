@@ -1,0 +1,2 @@
+imageFile,output,flag,username,timestamp
+flagged\imageFile\f8c01b5d6ef50e7b7c48\american-staffordshire-terrier-9.jpg,"{""label"": ""american-staffordshire-terrier"", ""confidences"": [{""label"": ""american-staffordshire-terrier"", ""confidence"": 0.8193341}, {""label"": ""buggle"", ""confidence"": 0.049599763}, {""label"": ""german-wirehaired-pointer"", ""confidence"": 0.049363676}, {""label"": ""australian-shepherd"", ""confidence"": 0.049145654}, {""label"": ""shorkie"", ""confidence"": 0.03255681}]}",,,2024-08-09 23:59:39.029155
